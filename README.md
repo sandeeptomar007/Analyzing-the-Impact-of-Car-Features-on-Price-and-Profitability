@@ -31,6 +31,8 @@ Before diving into the analysis of the given dataset, it is important to perform
 5. Task 5: How does the car's horsepower, MPG, and price vary across different Brands?
 
 ## Results
-The interactive dashboard created in Excel allows stakeholders to explore various aspects of the dataset. They can visualize the distribution of car prices by brand and body style, compare average MSRPs across different brands and body styles, analyze the impact of transmission type on MSRP by body style, observe the trend of fuel efficiency across different body styles and model years, and understand the relationships between horsepower, MPG, and price across different car brands. The insights gained from the analysis provide valuable information for car manufacturers to make informed decisions regarding pricing, product development, marketing, and competitiveness in the market. By optimizing these factors, manufacturers can maximize profitability while meeting consumer demand.
+The interactive dashboard created in Excel allows stakeholders to explore various aspects of the dataset. They can visualize the distribution of car prices by brand and body style, compare average MSRPs across different brands and body styles, analyze the impact of transmission type on MSRP by body style, observe the trend of fuel efficiency across different body styles and model years, and understand the relationships between horsepower, MPG, and price across different car brands. 
+
+The insights gained from the analysis provide valuable information for car manufacturers to make informed decisions regarding pricing, product development, marketing, and competitiveness in the market. By optimizing these factors, manufacturers can maximize profitability while meeting consumer demand.
 
 
